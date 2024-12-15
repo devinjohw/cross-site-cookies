@@ -2,8 +2,6 @@
 
 # Logs
 
-key.pem
-
 logs
 _.log
 npm-debug.log_
